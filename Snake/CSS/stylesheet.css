@@ -1,0 +1,35 @@
+#stage {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 450px;
+    border-radius: 3%;
+    border-style: groove;
+}   
+
+#h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 480px;
+    background-color: rgb(162, 236, 162);
+}
+
+#p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    position: absolute;
+    margin-left: 530px;
+    margin-top: 55px;
+    background-color: rgb(162, 236, 162);
+}
+
+#bt {
+    position: absolute;
+    cursor: pointer;
+    background-color: rgb(202, 238, 202);
+    border: none;
+    font-size: larger;
+    border-radius: 5%;
+    margin-top: 530px;
+    margin-left: 610px;
+}
